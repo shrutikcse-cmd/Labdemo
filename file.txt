@@ -1,1 +1,2 @@
 hi Git
+new feature added
